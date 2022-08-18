@@ -4,4 +4,8 @@ Alamat: Taman Cibaduyut Indah Blok F 194
 Jenis kelamin: Laki-laki
 Tempat tanggal lahir: Bandung 12 april 2005
 Hobi: Sepak bola,futsal
-cita-cita: pengusaha
+Cita-cita: pengusaha
+Riwayat pendidikan: -TK Al-islah
+                    -SDN Mochamad toha
+                    -SMPN 6 Bandung
+                    -SMK Prakarya Internasional
